@@ -32,6 +32,10 @@
 	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
 	<!--PhP-->
 	<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="Php" width="70" height="55"/>
+	<!--MySQL-->
+	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Php" width="70" height="55"/>
+	<!--MongoDB-->
+	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Php" width="70" height="55"/>
 	<!--Docker-->
 	<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="60" height="50"/>
 	<!--Git-->
