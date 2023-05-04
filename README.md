@@ -17,19 +17,21 @@
 
 
 ## Hello There!
-#### My name is *EL JAZOULY Anass* I'm a 22 years old *Software Engineer*.
-- 🏦  Currently looking for an internship as a Full-stack developer.
+#### My name is *EL JAZOULY Anass* I'm a 23 years old *Software Engineer*.
+<!-- - 🏦  Currently looking for an internship as a Full-stack developer. -->
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
 - 📚 Have a solid foundation in Mathematics, Physics and Web Technologies.
-- 💻 Proficient in **ReactJs**, **Java** , **SQL** and **Javascript**.
+- 💻 Proficient in **ReactJs**, **NextJs**, **Java**, **SQL**, **Javascript**, **Typescript**.
 - ⚡ Currently learning NodeJs and Docker.
 - 📖 Languages: English-Français-العربية
 - 🔺 Currently I am Third Year Student at National School of Computer Science and Systems Analysis
-(ENSIAS), Software Engineering Field (GL).
+(ENSIAS), Software Engineering Field (GL) and doing my Internship at SG ABS.
 <br/><br/>
 <p align="center">
-	<!--React-->
+	<!--ReactJS-->
 	<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
+	<!--TTailwind-->
+	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Next" width="55" height="55"/>
       	<!--Node JS -->
 	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
      	<!--Spring Boot-->
@@ -39,9 +41,9 @@
 	<!--PhP-->
 	<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="Php" width="70" height="55"/>
 	<!--MySQL-->
-	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Php" width="70" height="55"/>
+	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mySQL" width="70" height="55"/>
 	<!--MongoDB-->
-	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Php" width="70" height="55"/>
+	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="70" height="55"/>
 	<!--Docker-->
 	<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="60" height="50"/>
 	<!--Git-->
