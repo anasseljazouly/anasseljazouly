@@ -30,8 +30,10 @@
 <p align="center">
 	<!--ReactJS-->
 	<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
-	<!--TTailwind-->
+	<!--Tailwind-->
 	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Next" width="55" height="55"/>
+<!-- 	TypeScritp -->
+	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Next" width="55" height="55"/>
       	<!--Node JS -->
 	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
      	<!--Spring Boot-->
