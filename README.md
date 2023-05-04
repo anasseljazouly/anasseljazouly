@@ -21,7 +21,7 @@
 <!-- - 🏦  Currently looking for an internship as a Full-stack developer. -->
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
 - 📚 Have a solid foundation in Mathematics, Physics and Web Technologies.
-- 💻 Proficient in **ReactJs**, **NextJs**, **Java**, **SQL**, **Javascript**, **Typescript**.
+- 💻 Proficient in **ReactJs**, **NextJs**, **Java**, **SQL**, **Javascript** and **Typescript**.
 - ⚡ Currently learning NodeJs and Docker.
 - 📖 Languages: English-Français-العربية
 - 🔺 Currently I am Third Year Student at National School of Computer Science and Systems Analysis
