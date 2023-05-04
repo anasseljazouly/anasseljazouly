@@ -50,6 +50,9 @@
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
 	<!--Linux-->
 	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
+	<!--Figma -->
+	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Linux" width="55" height="55"/> 
+	
 </p>
 <br/>
 
