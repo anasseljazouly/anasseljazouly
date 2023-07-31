@@ -24,7 +24,7 @@
 - 💻 Proficient in **ReactJs**, **NextJs**, **Java**, **SQL**, **Javascript** and **Typescript**.
 - ⚡ Currently learning NodeJs and Docker.
 - 📖 Languages: English-Français-العربية
-- 🔺 laureate of National School of Computer Science and Systems Analysis
+- 🔺 Laureate of National School of Computer Science and Systems Analysis
 (ENSIAS), Software Engineering Field (GL).
 <br/><br/>
 <p align="center">
