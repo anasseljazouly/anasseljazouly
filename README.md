@@ -24,8 +24,8 @@
 - 💻 Proficient in **ReactJs**, **NextJs**, **Java**, **SQL**, **Javascript** and **Typescript**.
 - ⚡ Currently learning NodeJs and Docker.
 - 📖 Languages: English-Français-العربية
-- 🔺 Currently I am Third Year Student at National School of Computer Science and Systems Analysis
-(ENSIAS), Software Engineering Field (GL) and doing my Internship at SG ABS.
+- 🔺 laureate of National School of Computer Science and Systems Analysis
+(ENSIAS), Software Engineering Field (GL).
 <br/><br/>
 <p align="center">
 	<!--ReactJS-->
